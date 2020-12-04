@@ -57,11 +57,11 @@ There’s nothing I can do now to change what happened, all I can do is write do
 
 The game has exactly the same specification as my original game, the only difference is that the tiles are circular and rotate rather than being square and adhering to slide-puzzle movement mechanics.
 
-Trax Videos:<br>
+**Trax Videos:**<br>
 https://www.youtube.com/watch?v=w54gRmyYYWY<br>
 https://www.youtube.com/watch?v=yS0FpynqCH4
 
-Droplitz:<br>
+**Droplitz:**<br>
 https://www.youtube.com/watch?v=NazO7L89CKw<br>
 https://www.gamasutra.com/view/feature/132623/postmortem_blitz_games_droplitz.php<br>
 https://atlus.fandom.com/wiki/Droplitz<br>
