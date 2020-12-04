@@ -1,7 +1,7 @@
 # Trax Gold
 ## The game Blitz Games Studio of Leamington Spa stole from me.
 
-This is the cd-key that you needto activate the game once it is installed: `dn28ak45eew2`
+This is the cd-key that you need to activate the game once it is installed: `dn28ak45eew2`
 
 
 **Read more about the intellectual property theft at:**
