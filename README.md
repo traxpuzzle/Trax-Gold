@@ -9,6 +9,10 @@ https://james-william-fletcher.medium.com/the-time-that-blitz-games-studio-of-le
 
 Themed around telling the story of the Nagasaki and Hiroshima incidents, sorry if you find this a tad controversial or lacking tact I am literally autistic and did not know better at the time of making this game in the years of 2007-2008.
 
+```
+"Trax is a Language Independent Story Telling Puzzle Game (LIST-PG). Trax combines Pipe Tiles with Slide-Puzzle manipulation to guide power balls to their respective goals. Trax is a game that will improve your cognitive and problem solving skills."
+```
+
 <hr>
 
 Blitz Games Studio of Leamington Spa, started by the Oliver Twins stole my college final major project, a puzzle game, and then around the time of their closure would sell on the IP to the game. They took from me a game I would never receive any recognition or money for creating but also in that respect with a team of game developers under their roof they gave life to a game that I at the time could never have given it. A game that was released on Xbox live and is still widely sold today on mobile platforms.
