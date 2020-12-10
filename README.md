@@ -5,7 +5,7 @@ This is the cd-key that you need to activate the game once it is installed: `dn2
 
 Full Version (installer): [TraxAtomicDay-dn28ak45eew2.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true)
 
-Light Version (no installer, simpler): [TraxLite.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxLite.exe?raw=true)
+Light Version (no installer, simpler graphics, no goal based storyline): [TraxLite.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxLite.exe?raw=true)
 
 You know I am not really sure about what happened to the sound, I would have to go back through my project files to solve that, all I know is that the sound was working fine on the computers I was using to test it and then one day it just stopped working. It sounds like a bit-rate issue.
 
