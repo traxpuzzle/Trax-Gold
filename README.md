@@ -1,9 +1,8 @@
 # Trax Gold
 ## The game Blitz Games Studio of Leamington Spa stole from me.
 
-This is the cd-key that you need to activate the game once it is installed: `dn28ak45eew2`
-
 Full Version (installer): [TraxAtomicDay-dn28ak45eew2.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true)
+`This is the cd-key that you need to activate the game once it is installed: dn28ak45eew2`
 
 Light Version (no installer, simpler graphics, no goal based storyline): [TraxLite.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxLite.exe?raw=true)
 
