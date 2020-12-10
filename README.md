@@ -4,8 +4,8 @@
 This is the cd-key that you need to activate the game once it is installed: `dn28ak45eew2`
 
 ```
-Full Version (installer): (TraxAtomicDay-dn28ak45eew2.exe)[https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true]
-Light Version (no installer, simpler): https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true
+Full Version (installer): [TraxAtomicDay-dn28ak45eew2.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true)
+Light Version (no installer, simpler): [TraxAtomicDay-dn28ak45eew2.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true)
 ```
 
 **Read more about the intellectual property theft at:**
