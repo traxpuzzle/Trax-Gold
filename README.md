@@ -4,7 +4,10 @@
 This is the cd-key that you need to activate the game once it is installed: `dn28ak45eew2`
 
 Full Version (installer): [TraxAtomicDay-dn28ak45eew2.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true)
+
 Light Version (no installer, simpler): [TraxAtomicDay-dn28ak45eew2.exe](https://github.com/traxpuzzle/Trax-Gold/blob/main/TraxAtomicDay-dn28ak45eew2.exe?raw=true)
+
+You know I am not really sure about what happened to the sound, I would have to go back through my project files to solve that, all I know is that the sound was working fine on the computers I was using to test it and then one day it just stopped working. It sounds like a bit-rate issue.
 
 **Read more about the intellectual property theft at:**
 https://james-william-fletcher.medium.com/the-time-that-blitz-games-studio-of-leamington-spa-stole-my-game-idea-9eeab25e0592
